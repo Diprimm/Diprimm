@@ -11,7 +11,7 @@
 
 - Game Engine: Unity
 - Languages: C#, Java(Basic)
-- Extras: Visual Studio Code, Visual Studio
+- Tools: Visual Studio Code, Visual Studio
 
 👨‍💻 All of my projects are available at [Itch.io](https://david4dev.itch.io/)
 
